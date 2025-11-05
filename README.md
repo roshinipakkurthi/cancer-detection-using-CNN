@@ -1,4 +1,4 @@
-# Breast-cancer-detection-using-CNN
+# Breast-cancer-detection-by-using-CNN
 
 Breast cancer constitutes a leading cause of cancer-related deaths worldwide. Accurate diagnosis of cancer from eosin-stained images remains a complex task, as medical professionals often encounter discrepancies in reaching a final verdict. Computer-Aided Diagnosis (CAD) systems offer a means to reduce cost and enhance the efficiency of this intricate process. Traditional classification approaches rely on problem-specific feature extraction methods based on domain knowledge. To address the numerous challenges posed by feature-based techniques, deep learning methods have emerged as significant alternatives.
 
